@@ -1,0 +1,19 @@
+/*
+Theme Name:     storefront_child
+Description:    child
+Author:         cera21
+Template:       storefront
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+.site-header {
+    background-color: #1e73be;
+}
+
+a {
+    color: #e63946;
+}
+
+.post {
+    padding: 20px;
+}
