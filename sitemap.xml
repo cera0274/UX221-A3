@@ -32,6 +32,36 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/blizzard-overwatch-2-ramattra-bust-scale-1-5-bust-b66680/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/ramattra-t-shirt/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/corn-chips/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/corn-in-a-cup/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/canned-baby-corn/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
